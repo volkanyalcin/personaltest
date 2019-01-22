@@ -11,7 +11,7 @@ public class Application {
 
 	@RequestMapping("/")
 	public String home() {
-		return "Hello Docker World-some changes. 2nd update";
+		return "this is the develop branch update";
 	}
 
 
